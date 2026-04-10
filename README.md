@@ -14,21 +14,6 @@ Using AWS Glue Studio and PySpark, raw data is processed into structured **fact 
 
 ---
 
-## 🏗️ Architecture
-
-```mermaid
-flowchart LR
-    A[Raw Data (S3)] --> B[AWS Glue ETL]
-    B --> C[Processed Data (S3)]
-    C --> D[Dimension Tables]
-    C --> E[Fact Tables]
-    D --> F[Analytical Layer (S3)]
-    E --> F
-    F --> G[Amazon Athena]
-    G --> H[Analytics & Reporting]
-```
-
----
 
 ## 📁 Data Lake Structure
 
