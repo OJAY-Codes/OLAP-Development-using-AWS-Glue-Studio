@@ -4,11 +4,6 @@ Here is your **final, clean copy-paste GitHub README** (fully formatted, no extr
 
 # 🚀 Cloud Data Engineering OLAP Pipeline (AWS Glue & Athena)
 
-![AWS](https://img.shields.io/badge/AWS-Glue%20%7C%20S3%20%7C%20Athena-orange)
-![PySpark](https://img.shields.io/badge/PySpark-ETL-blue)
-![Data Engineering](https://img.shields.io/badge/Data%20Engineering-OLAP-green)
-![Status](https://img.shields.io/badge/Status-Production--Ready-success)
-
 ---
 
 ## 📊 Overview
@@ -165,8 +160,3 @@ This project demonstrates **real-world data engineering practices**, including:
 💡 *Built to reflect production-grade data engineering workflows used in modern data platforms.*
 
 ---
-
-If you want to push this even further, I can next:
-
-* Add a **star schema diagram (fact + dimensions visual)**
-* Or create a **short demo script you can use when presenting this project in interviews or Upwork proposals**
