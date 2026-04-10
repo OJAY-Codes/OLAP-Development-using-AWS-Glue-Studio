@@ -1,5 +1,3 @@
-Here is your **final, clean copy-paste GitHub README** (fully formatted, no extra artifacts like IDs, ready to render properly):
-
 ---
 
 # 🚀 Cloud Data Engineering OLAP Pipeline (AWS Glue & Athena)
